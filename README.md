@@ -10,3 +10,8 @@ Este repositorio contiene un proyecto Java/Maven para practicar el control de ve
 
 Evaluación 02 de Lenguaje de Programación II: configuración de Git, control de cambios, ramas y GitHub.
 
+
+## Control de cambios
+
+En esta actividad comparé los archivos modificados, preparé cambios selectivos, retiré pom.xml del staging y recuperé su versión confirmada antes del commit.
+

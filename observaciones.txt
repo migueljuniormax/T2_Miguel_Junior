@@ -1,0 +1,1 @@
+La evaluación T2 demuestra cómo separar cambios válidos y descartados con Git.
